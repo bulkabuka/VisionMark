@@ -1,3 +1,6 @@
+<image src="logo.png" width="300px">
+</image>
+
 # VisionMark
 
 Highly extended specification for Markdown, intended for complex documents.
