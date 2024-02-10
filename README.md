@@ -59,3 +59,11 @@ _ But it can also span multiple paragraphs!
 
 The goal of such `markup` is to move further away from HTML-tags.
 ```
+
+## How to use?
+
+Documentation addressing various syntax is provided within Wiki section.
+
+## Further exploration
+
+Since VisionMark is just a concept, you are free to modify or use it as a base for text editors and renderers and other types of software. VisionMark is being distributed under `MIT License`.
